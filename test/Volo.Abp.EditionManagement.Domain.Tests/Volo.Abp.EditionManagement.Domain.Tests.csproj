@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Volo.Abp.EditionManagement</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.4.0" />
+    <ProjectReference Include="..\Volo.Abp.EditionManagement.EntityFrameworkCore.Tests\Volo.Abp.EditionManagement.EntityFrameworkCore.Tests.csproj" />
+  </ItemGroup>
+
+</Project>

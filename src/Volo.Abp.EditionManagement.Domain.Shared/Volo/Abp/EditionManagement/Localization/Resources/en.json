@@ -1,0 +1,16 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:EditionManagement": "Edition management",
+    "Editions": "Editions",
+    "NewEdition": "New edition",
+    "EditionName": "Edition name",
+    "DisplayName:EditionName": "Edition name",
+    "EditionDeletionConfirmationMessage": "Edition '{0}' will be deleted. Do you confirm that?",
+    "Edition.DuplicateName": "Name '{0}' is already taken",
+    "Permission:EditionManagement": "Edition management",
+    "Permission:Create": "Create",
+    "Permission:Edit": "Edit",
+    "Permission:Delete": "Delete"
+  }
+}

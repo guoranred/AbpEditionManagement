@@ -1,0 +1,18 @@
+{
+  "culture": "zh-Hans",
+  "texts": {
+    "Menu:EditionManagement": "版本管理",
+    "Editions": "版本",
+    "NewEdition": "新版本",
+    "EditionName": "版本名称",
+    "DisplayName:EditionName": "版本名称",
+    "Edition.DeletionConfirmationMessage": "版本 '{0}' 将被删除. 你确定吗?",
+    "Edition.DuplicateName": "版本名称 '{0}' 已存在",
+    "Permission:EditionManagement": "版本管理",
+    "Permission:Create": "创建",
+    "Permission:Edit": "编辑",
+    "Permission:Delete": "删除",
+    "Permission:ManagePrices": "管理价格",
+    "Permission:ManageFeatures": "管理功能"
+  }
+}
